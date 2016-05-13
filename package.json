@@ -1,0 +1,22 @@
+{
+  "name": "nte",
+  "version": "1.0.0",
+  "description": "a super simple, easily extensible and inspirational template engine for Node.js!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacopomaroli/nte.git"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "Jacopo Maroli <info@jacopomaroli.com> (http://jacopomaroli.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacopomaroli/nte/issues"
+  },
+  "homepage": "https://github.com/jacopomaroli/nte#readme"
+}
