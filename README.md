@@ -8,7 +8,7 @@ Features:
 * parse templates thanks to vm.runInContext
 * bidirectional data communication
 * light footprint (the code is only 36 lines!)
-* ** coming soon ** allow to choose between
+* **coming soon** allow to choose between
   ```js
   vm.runInContext(code, contextifiedSandbox[, options])
   vm.runInDebugContext(code)
@@ -23,7 +23,7 @@ Features:
   ```
 
 ## Usage
-  ** Server code (server.js) **
+  **Server code (server.js)**
   ```js
   // initialization code
   var express = require('express');
@@ -45,7 +45,7 @@ Features:
   // ... your code ...
   ```
   
-  ** Template Code (myTpl.nte) **
+  **Template Code (myTpl.nte)**
   ```html
   <!doctype html>
   <html>
